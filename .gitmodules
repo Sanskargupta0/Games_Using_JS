@@ -1,3 +1,6 @@
 [submodule "Rock_Paper_Scissors"]
 	path = Rock_Paper_Scissors
 	url = https://github.com/Sanskargupta0/Rock_Paper_Scissors.git
+[submodule "Memory-Game"]
+	path = Memory-Game
+	url = https://github.com/Sanskargupta0/Memory-Game.git

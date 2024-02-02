@@ -4,3 +4,6 @@
 [submodule "Memory-Game"]
 	path = Memory-Game
 	url = https://github.com/Sanskargupta0/Memory-Game.git
+[submodule "Sound-Game"]
+	path = Sound-Game
+	url = https://github.com/Sanskargupta0/Sound-Game

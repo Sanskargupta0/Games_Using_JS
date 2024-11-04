@@ -7,3 +7,6 @@
 [submodule "Sound-Game"]
 	path = Sound-Game
 	url = https://github.com/Sanskargupta0/Sound-Game
+[submodule "Whac-a-mole"]
+	path = Whac-a-mole
+	url = https://github.com/Sanskargupta0/Whac-a-mole.git

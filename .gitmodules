@@ -10,3 +10,6 @@
 [submodule "Whac-a-mole"]
 	path = Whac-a-mole
 	url = https://github.com/Sanskargupta0/Whac-a-mole.git
+[submodule "2D-Breakout"]
+	path = 2D-Breakout
+	url = https://github.com/Sanskargupta0/2D-Breakout.git
